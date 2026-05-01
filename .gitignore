@@ -1,0 +1,14 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac system files
+.DS_Store
+
+# Editor folders
+.vscode/
+
+# Logs and temporary files
+*.log
+npm-debug.log*

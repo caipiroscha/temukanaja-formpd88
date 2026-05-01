@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "PEDANG88-Project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.tabSize": 2,
+		"editor.formatOnSave": true,
+		"files.exclude": {
+			"**/.git": true
+		}
+	}
+}
